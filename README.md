@@ -2,6 +2,7 @@
 # Layanan Servis PC dan Laptop
 
 ## Deskripsi Permasalahan
+
 Portable computer, atau lebih sering disebut sebagai PC, adalah perangkat yang umumnya dijumpai di berbagai lingkungan saat ini. Perangkat ini memegang peranan penting dalam berbagai aspek kehidupan, termasuk dalam dunia pendidikan, pekerjaan, dan hiburan. Dengan banyaknya pengguna PC di seluruh dunia, diperkirakan juga akan banyak masalah dan kerusakan yang terjadi, baik karena faktor usia perangkat, kesalahan manusia, bencana alam, dan faktor lainnya.
 
 Oleh karena itu, keberadaan pusat layanan servis menjadi sangat penting untuk menangani segala permasalahan dan gangguan yang mungkin terjadi pada PC atau laptop pelanggan. Pusat layanan ini bertujuan untuk memberikan solusi dan perbaikan yang tepat guna untuk mengatasi segala masalah yang timbul pada perangkat tersebut.
